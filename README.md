@@ -3,7 +3,7 @@ RStudio Projects
 
 *Note that all of these projects were done for my graduate level analytics coursework. 
 
-Project 1: Gender Bias 
+Project 1: Gender Bias in Professor Ratings at University of Texas, Austin
 
 This work examined wether gender bias is prevalent in professor salaries at the University of Texas, Asutin (UT). Open source data (attached in profile) regarding UT professor charateristics and salaries were used. 
 
