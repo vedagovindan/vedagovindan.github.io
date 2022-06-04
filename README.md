@@ -1,5 +1,6 @@
 # vedagovindan.github.io
 RStudio Projects 
+
 *Note that all of these projects were done for my graduate level analytics coursework. 
 
 Project 1: Gender Bias 
